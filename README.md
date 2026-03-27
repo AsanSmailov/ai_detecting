@@ -40,11 +40,10 @@
 
 | Компонент | Технологии |
 |-----------|------------|
-| Сегментация | U-Net (PyTorch/TensorFlow) |
+| Сегментация | U-Net  |
 | Детекция | YOLO |
-| Бэкенд | Python (FastAPI/Flask) |
-| Фронтенд | React / JavaScript |
-| Деплой | Docker / GitHub Actions |
+| Бэкенд | Python  |
+
 
 ---
 
